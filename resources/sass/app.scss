@@ -1,0 +1,15 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,800");
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// fontawesome
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+@import "~@fortawesome/fontawesome-free/scss/regular.scss";
